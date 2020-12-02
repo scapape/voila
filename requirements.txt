@@ -27,9 +27,9 @@ kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.3.1
 mistune==0.8.4
-mkl-fft
-mkl-random
-mkl-service
+#mkl-fft
+#mkl-random
+#mkl-service
 nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.0.8
